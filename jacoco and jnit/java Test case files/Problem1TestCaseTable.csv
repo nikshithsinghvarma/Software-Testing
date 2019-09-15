@@ -1,0 +1,13 @@
+1,TRUE,500.01,4,TRUE,433,11-12-17(TTF)
+2,TRUE,250.01,4,TRUE,230.04,11-14-15-27
+3,TRUE,100.01,4,TRUE,97.43,11-14-17-18-27
+4,TRUE,50.01,4,TRUE,51.42,11-14-17-20-21-27
+5,TRUE,50,5,TRUE,54.12,11-14-17-20-23-27(TFT)
+6,TRUE,50,0,FALSE,54.12,Extreme values for numPizzas(TFF)
+7,TRUE,500.01,1000,TRUE,433,Extreme values for numPizzas
+8,FALSE,50,4,TRUE,54.12,FFF
+9,TRUE,100,4,TRUE,102.83,Boundary values for ordAmount
+10,TRUE,250,4,TRUE,243.56,Boundary values for ordAmount
+11,TRUE,500,4,TRUE,460.06,Boundary values for ordAmount
+12,TRUE,5000,4,TRUE,4330,Extreme values for ordAmount
+13,TRUE,0,4,FALSE,0,Extreme values for ordAmount
